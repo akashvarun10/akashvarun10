@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvarun10&label=Profile%20views&color=0e75b6&style=flat" alt="akashvarun10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashvarun10" alt="akashvarun10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/akash9varun" target="blank"><img src="https://img.shields.io/twitter/follow/akash9varun?logo=twitter&style=for-the-badge" alt="akash9varun" /></a> </p>
-
 - 🔭 I’m currently working on [AI Tech Newsletter](https://github.com/akashvarun10/CrewAI--Newsletter)
 
 - 🌱 I’m currently learning **Generative AI, MLOps, Cloud Computing**
@@ -44,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashvarun10&show_icons=true&locale=en" alt="akashvarun10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashvarun10&" alt="akashvarun10" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashvarun10" alt="akashvarun10" /></a> </p>
