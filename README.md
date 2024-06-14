@@ -17,9 +17,10 @@
 
 - ⚡ **Could I BE any more tech-savvy? [Chandler Bing]**
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
