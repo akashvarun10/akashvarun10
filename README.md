@@ -19,6 +19,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JULIA Installation and Running from Shell Terminal](https://akashvarunp.medium.com/julia-installation-and-running-from-shell-terminal-44112cb42505?source=rss-a02fa8574f48------2)
+- [Julia 101](https://akashvarunp.medium.com/julia-101-3e8bcc304f3a?source=rss-a02fa8574f48------2)
+- [Let’s look back into HPAIR’22.](https://akashvarunp.medium.com/lets-look-back-into-hpair-22-42ff3523eec6?source=rss-a02fa8574f48------2)
+- [FastAPI 101 : The Basics](https://akashvarunp.medium.com/fastapi-101-the-basics-8e7933172c38?source=rss-a02fa8574f48------2)
 <!-- BLOG-POST-LIST:END -->
 
 
