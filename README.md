@@ -19,7 +19,7 @@
   
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1CihVOr6dR1Ee4TeKAO_-ADw7F3uP5IWC](https://drive.google.com/drive/folders/1CihVOr6dR1Ee4TeKAO_-ADw7F3uP5IWC)
 
-- ⚡ Fun fact **Could I BE any more tech-savvy? [Chandler Bing]**
+- ⚡ **Could I BE any more tech-savvy? [Chandler Bing]**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
