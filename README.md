@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Varun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Data & AI Developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvarun10&label=Profile%20views&color=0e75b6&style=flat" alt="akashvarun10" /> </p>
 
