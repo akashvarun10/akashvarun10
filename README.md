@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvarun10&label=Profile%20views&color=0e75b6&style=flat" alt="akashvarun10" /> </p>
 
-- 🔭 I’m currently working on [AI Tech Newsletter](https://github.com/akashvarun10/CrewAI--Newsletter)
+- 🔭 I’m currently working on [DevOps](https://github.com/akashvarun10/DevOps-Networks)
 
 - 🌱 I’m currently learning **Generative AI, MLOps, Cloud Computing**
 
