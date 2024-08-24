@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Varun</h1>
-<h3 align="center">A Data & AI Developer from India </h3>
-
+<h3 align="center">A Developer Specializing in AI, Cloud, and Full Stack Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvarun10&label=Profile%20views&color=0e75b6&style=flat" alt="akashvarun10" /> </p>
 
 - 🔭 I’m currently working on [DevOps](https://github.com/akashvarun10/DevOps-Networks)
@@ -172,15 +171,11 @@
 </div>
 
 ![akashvarun10's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashvarun10&theme=gotham)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashvarun10&theme=gotham&utcOffset=8)
 
 ![akashvarun10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashvarun10&theme=gotham&hide_border=true)
-![akashvarun10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvarun10&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 
 ![akashvarun10's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashvarun10&theme=gotham)
 
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashvarun10&theme=gotham)
-
-![Top Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashvarun10&theme=gotham)
-
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashvarun10&theme=gotham&utcOffset=8)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashvarun10&theme=gotham)![Top Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashvarun10&theme=gotham)
