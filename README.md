@@ -73,14 +73,14 @@
   <img width="12" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face logo" />
   <img width="12" />
-  <img src="https://api.nuget.org/v3-flatcontainer/langchain.databases.chroma/0.14.1-dev.7/icon" height="40" alt="LangChain Logo" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQF8MwWNbgUZ_g/article-cover_image-shrink_600_2000/0/1697534805076?e=2147483647&v=beta&t=ToW6rr71SXqo3qWJbAxPsBYEeg-uMsXwFJZLIfGI50M" height="40" alt="LangChain Logo" />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:400/1*XRIQnYLa1oXQgCjkRZcG2Q.jpeg" height="40" alt="LlamaIndex Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn Logo" />
   <img width="12" />
   <img src ="https://www.onworks.net/imagescropped/apacheairflowicon.png_3.webp" height="35" alt="apache airflow logo">
   <img width="12" />
-  <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" height="40" alt="apachekafka logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sZOLcWtc4bHoDBS5VjsA3oZMmTg34IGtbRcL1CCZ0qOO5FWlFK5Q9NR0qJost8e49PE&usqp=CAU" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5RAoNZ0x7nJj-4QKRdvq_cL1Veq5zBAQww&s" height="40" alt="pytorch logo"  />
   <img width="12" />
