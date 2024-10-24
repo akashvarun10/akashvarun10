@@ -2,8 +2,7 @@
 <h3 align="center">A Developer Specializing in AI, Cloud, and Full Stack Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashvarun10&label=Profile%20views&color=0e75b6&style=flat" alt="akashvarun10" /> </p>
 
-- 🔭 I’m currently working on [DevOps](https://github.com/akashvarun10/DevOps-Networks)
-
+- 🔭 I’m currently working on Big Data , GenAI & Cloud Infra Projects
 - 🌱 I’m currently learning **Generative AI, MLOps, Cloud Computing**
 
 - 📝 I Ocassionally write articles on [https://akashvarunp.medium.com/](https://akashvarunp.medium.com/)
