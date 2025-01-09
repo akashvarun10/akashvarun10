@@ -32,7 +32,7 @@
 <a href="https://medium.com/@akashvarunp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashvarunp" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Tech Stack</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
