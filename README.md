@@ -32,29 +32,13 @@
 <a href="https://medium.com/@akashvarunp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akashvarunp" height="30" width="40" /></a>
 </p>
 
-## Programming Languages:
-<div align="left">
+## Tech Stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
-  <img width="12" />
-</div>
-
-
-
-### Data Science & Machine Learning:
-
- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
@@ -67,24 +51,9 @@
   <img width="12" />
   <img src="https://media.licdn.com/dms/image/D4D12AQF8MwWNbgUZ_g/article-cover_image-shrink_600_2000/0/1697534805076?e=2147483647&v=beta&t=ToW6rr71SXqo3qWJbAxPsBYEeg-uMsXwFJZLIfGI50M" height="40" alt="LangChain Logo" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:400/1*XRIQnYLa1oXQgCjkRZcG2Q.jpeg" height="40" alt="LlamaIndex Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn Logo" />
-  <img width="12" />
-  <img src ="https://www.onworks.net/imagescropped/apacheairflowicon.png_3.webp" height="35" alt="apache airflow logo">
-  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sZOLcWtc4bHoDBS5VjsA3oZMmTg34IGtbRcL1CCZ0qOO5FWlFK5Q9NR0qJost8e49PE&usqp=CAU" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5RAoNZ0x7nJj-4QKRdvq_cL1Veq5zBAQww&s" height="40" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="20" alt="MLflow Logo" />
-  <img width="12" />
-</div>
-
-
-
-### Cloud:
-<div align="left">
-  <img src="https://bashlogo.com/img/symbol/png/monochrome_dark.png" height="40" alt="Shell logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -100,31 +69,14 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
 </div>
 
-### Web Development:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-</div>
 
 
 ![akashvarun10's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashvarun10&theme=gotham)
